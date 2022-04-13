@@ -1,0 +1,22 @@
+.firstClass {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#secondElID {
+    color: blue;
+    font-size: 36px;
+}
+.secondElClass {
+    font-size: 24px;
+}
+.thirdElClass {
+    font-size: 36px;
+}
+#fourthElID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}

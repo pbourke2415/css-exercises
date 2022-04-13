@@ -1,0 +1,13 @@
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+    border: 3px blue dashed;
+}
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+    border: 2px red solid;
+}
+.original {
+    border: 5px green solid;
+}
